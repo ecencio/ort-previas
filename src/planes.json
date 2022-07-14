@@ -1,0 +1,166 @@
+{
+    "Plan2019": [
+        {
+            "semestre": 1,
+            "materias": [
+                {"id": 7687, "compuesta": false, "titulo": "Taller de tecnologías 1", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                {"id": 1479, "compuesta": false, "titulo": "Programación 1", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                {"id": 2103, "compuesta": false, "titulo": "Álgebra lineal", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                {"id": 7660, "compuesta": false, "titulo": "Cálculo en una variable", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}}
+            ]
+        },
+        {
+            "semestre": 2,
+            "materias": [
+                {"id": 6449, "compuesta": false, "titulo": "Fundamentos de computación", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                {"id": 1743, "compuesta": false, "titulo": "Programación 2", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                {"id": 6580, "compuesta": false, "titulo": "Matemática discreta", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                {"id": 7670, "compuesta": false, "titulo": "Fundamentos de sistemas ciberfísicos", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}}
+            ]
+        },
+        {
+            "semestre": 3,
+            "materias": [
+                {"id": 7669, "compuesta": false, "titulo": "Lógica para computación", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                {"id": 1778, "compuesta": false, "titulo": "Estructuras de datos y algoritmos 1", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                {"id": 3831, "compuesta": false, "titulo": "Arquitectura de sistemas", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                {"id": 6409, "compuesta": false, "titulo": "Probabilidad y estadística", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}}
+            ]
+        },
+        {
+            "semestre": 4,
+            "materias": [
+                {"id": 7669, "compuesta": false, "titulo": "Fundamentos de Ingeniería de software", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                {"id": 1778, "compuesta": false, "titulo": "Estructuras de datos y algoritmos 2 ", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                {"id": 3837, "compuesta": false, "titulo": "Bases de datos 1", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                {"id": 6409, "compuesta": false, "titulo": "Sistemas operativos", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                {"id": 3988, "compuesta": true, "titulo": "Materia de Matemática", "opciones": [
+                    {"id": 1786, "compuesta": false, "titulo": "Cálculo numérico", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 7812, "compuesta": false, "titulo": "Ecuaciones diferenciales", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 7689, "compuesta": false, "titulo": "Tópicos avanzados y aplicados de Matemática", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 7690, "compuesta": false, "titulo": "Optimización con álgebra lineal", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 7691, "compuesta": false, "titulo": "Cálculo en varias variables", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}}
+                ]}
+            ]
+        },
+        {
+            "semestre": 5,
+            "materias": [
+                {"id": 6452, "compuesta": false, "titulo": "Teoría de la computación", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                {"id": 3924, "compuesta": false, "titulo": "Diseño de aplicaciones 1", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                {"id": 3839, "compuesta": false, "titulo": "Bases de datos 2", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                {"id": 3838, "compuesta": false, "titulo": "Redes", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                {"id": 3989, "compuesta": true, "titulo": "Materia de Ciencias sociales", "opciones":[
+                    {"id": 1781, "compuesta": false, "titulo": "Administracón general", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 6411, "compuesta": false, "titulo": " Finanzas y valoración de proyectos", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 7668, "compuesta": false, "titulo": "Economía y organización empresarial", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}}
+                ]}
+            ]
+        },
+        {
+            "semestre": 5.5,
+            "materias": [
+                {"id": 3990, "compuesta": true, "titulo": "Materia de Comunicación y negociación", "opciones": [
+                    {"id": 5636, "compuesta": false, "titulo": "Gestión de comunicación, conflictos en proyectos", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 5733, "compuesta": false, "titulo": "Habilidades gerenciales en grupos de proyectos", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 5906, "compuesta": false, "titulo": "Habilidades de equipo en desarrollo de software", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 7473, "compuesta": false, "titulo": "Técnicas de negociación para equipos de proyecto", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 7663, "compuesta": false, "titulo": "Comunicación y liderazgo", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 1410, "compuesta": false, "titulo": "Recursos humanos", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}}
+                ]}
+            ]
+        },
+        {
+            "semestre": 6,
+            "materias": [
+                {"id": 7674, "compuesta": false, "titulo": "Ingeniería de software ágil 1", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                {"id": 6343, "compuesta": false, "titulo": "Diseño de aplicaciones 2", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                {"id": 7688, "compuesta": false, "titulo": "Taller de tecnologías 2", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                {"id": 6498, "compuesta": false, "titulo": "Programación de redes", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                {"id": 3991, "compuesta": true, "titulo": "Materia de Sistemas inteligentes", "opciones": [
+                    {"id": 7349, "compuesta": false, "titulo": "Machine learning para sistemas inteligentes", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 7678, "compuesta": false, "titulo": "Machine learning para análisis de datos", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 7679, "compuesta": false, "titulo": " Machine learning para análisis de secuencias", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}}
+                ]}
+            ]
+        },
+        {
+            "semestre": 7,
+            "materias": [
+                {"id": 3992, "compuesta": true, "titulo": "Materia de Gestión de la información", "opciones": [
+                    {"id": 3437, "compuesta": false, "titulo": "Web mining", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 3842, "compuesta": false, "titulo": "Bases de datos 3", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 7657, "compuesta": false, "titulo": "Arquitectura de software para Big Data", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 7664, "compuesta": false, "titulo": "Data mining", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 7673, "compuesta": false, "titulo": "Gobernanza para Big Data", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 7692, "compuesta": false, "titulo": "Fundamentos de Big Data", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 7715, "compuesta": false, "titulo": "Herramientas de software para Big Data", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}}
+                ]},
+                {"id": 3993, "compuesta": true, "titulo": "Materia de Seguridad informática", "opciones": [
+                    {"id": 4231, "compuesta": false, "titulo": "Aspectos de seguridad de sistemas informáticos", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 6147, "compuesta": false, "titulo": "Seguridad en aplicaciones", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 7271, "compuesta": false, "titulo": "Tecnologías aplicadas a la seguridad de la información", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 8082, "compuesta": false, "titulo": "Tópicos avanzados en Seguridad", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 8149, "compuesta": false, "titulo": "Implementación de seguridad en sistemas de información", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}}
+                ]},
+                {"id": 3851, "compuesta": false, "titulo": "Arquitectura de software", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                {"id": 7675, "compuesta": false, "titulo": "Ingeniería de software ágil 2", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                {"id": 3876, "compuesta": false, "titulo": "Inteligencia artificial", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}}
+            ]
+        },
+        {
+            "semestre": 7.5,
+            "materias": [
+                {"id": 3994, "compuesta": true, "titulo": "Materia de Innovación y emprendedurismo", "opciones": [
+                    {"id": 6852, "compuesta": false, "titulo": "Emprendimientos dinámicos", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 6934, "compuesta": false, "titulo": " Innovación disruptiva", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 7686, "compuesta": false, "titulo": "Taller de innovación y emprendurismo", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}}
+                ]}
+            ]
+        },
+        {
+            "semestre": 8,
+            "materias": [
+                {"id": 3995, "compuesta": true, "titulo": "Materia de Nuevas tecnologías y dominios de aplicación", "opciones": [
+                    {"id": 6872, "compuesta": false, "titulo": "Desarrollo de interfaces de usuario", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 7667, "compuesta": false, "titulo": "Diseño centrado en el usuario", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 7676, "compuesta": false, "titulo": " Interacción humano-computadora", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}}
+                ]},
+                {"id": 3996, "compuesta": true, "titulo": "Materia de Ingeniería de productos de software", "opciones": [
+                    {"id": 6933, "compuesta": false, "titulo": "Desarrollo de aplicaciones escalables en la nube ", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 7666, "compuesta": false, "titulo": " Desarrollo de productos de base tecnológica", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}}
+                ]},
+                {"id": 3997, "compuesta": true, "titulo": "Materia de Lenguajes de programación", "opciones": [
+                    {"id": 1793, "compuesta": false, "titulo": "Lenguajes y compiladores", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 6030, "compuesta": false, "titulo": "Tópicos avanzados en algoritmia", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 6543, "compuesta": false, "titulo": "Algoritmos, estructuras de datos y lenguajes avanzados", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 7683, "compuesta": false, "titulo": "Programación y análisis de sistemas paralelos y distribuidos", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}}
+                ]},
+                {"id": 6455, "compuesta": false, "titulo": "Arquitectura de software en la práctica ", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                {"id": 6435, "compuesta": false, "titulo": "Trabajo integrado", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}}
+            ]
+        },
+        {
+            "semestre": 9,
+            "materias": [
+                {"id": 3990, "compuesta": true, "titulo": "Materia de Comunicación y negociación", "opciones": [
+                    {"id": 5636, "compuesta": false, "titulo": "Gestión de comunicación, conflictos en proyectos", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 5733, "compuesta": false, "titulo": "Habilidades gerenciales en grupos de proyectos", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 5906, "compuesta": false, "titulo": "Habilidades de equipo en desarrollo de software", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 7473, "compuesta": false, "titulo": "Técnicas de negociación para equipos de proyecto", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 7663, "compuesta": false, "titulo": "Comunicación y liderazgo", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                    {"id": 1410, "compuesta": false, "titulo": "Recursos humanos", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}}
+                ]},
+                {"id": 1798, "compuesta": false, "titulo": "Proyecto", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                {"id": -1, "compuesta": false, "titulo": "Electiva 1", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}}
+            ]
+        },
+        {
+            "semestre": 10,
+            "materias": [
+                {"id": -2, "compuesta": false, "titulo": "Electiva 2", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}},
+                {"id": -3, "compuesta": false, "titulo": "Electiva 3", "aprobacion": {"parcial": false, "total": false}, "previas": {"inscripcion": false, "aprobacion": false}}
+            ]
+        }
+    ]
+}
